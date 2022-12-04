@@ -1,1 +1,6 @@
-# project
+# HUMAN ACTIVITY RECOGNITION
+# 19BCI7017
+# DATASET
+DATA SET LINK IS [UCF50](https://www.crcv.ucf.edu/data/UCF50.rar).
+
+
